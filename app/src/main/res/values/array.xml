@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="credit">
+        <item>1 credit </item>
+        <item>2 credit</item>
+        <item>3 credit</item>
+        <item>4 credit</item>
+        <item>5 credit</item>
+        <item>6 credit</item>
+        <item>7 credit</item>
+        <item>8 credit</item>
+        <item>9 credit</item>
+        <item>10 credit</item>
+
+
+
+
+    </string-array>
+
+    <string-array name="letter">
+        <item>A+</item>
+        <item>A</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>B-</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>C-</item>
+        <item>C</item>
+        <item>D+</item>
+        <item>D</item>
+        <item>F</item>
+    </string-array>
+</resources>
